@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+270215 ../files/marlowe_files/marlowe_complete
+Number of words with removals of non-words and non-word characters
+267845 ../files/marlowe_files/marlowe_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+13544 ../files/marlowe_files/marlowe_complete_words_all_lc_uniq
+Number of unique words after stemming
+9267 ../files/marlowe_files/marlowe_complete_stemmed_uniq

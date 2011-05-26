@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+267706 ../files/shakespeare_young_files/shakespeare_young_complete
+Number of words with removals of non-words and non-word characters
+267568 ../files/shakespeare_young_files/shakespeare_young_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+13481 ../files/shakespeare_young_files/shakespeare_young_complete_words_all_lc_uniq
+Number of unique words after stemming
+9193 ../files/shakespeare_young_files/shakespeare_young_complete_stemmed_uniq

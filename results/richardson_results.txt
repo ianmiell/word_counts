@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+957114 ../files/richardson_files/richardson_complete
+Number of words with removals of non-words and non-word characters
+955397 ../files/richardson_files/richardson_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+18495 ../files/richardson_files/richardson_complete_words_all_lc_uniq
+Number of unique words after stemming
+10980 ../files/richardson_files/richardson_complete_stemmed_uniq

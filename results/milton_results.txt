@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+138118 ../files/milton_files/milton_complete
+Number of words with removals of non-words and non-word characters
+137318 ../files/milton_files/milton_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+14096 ../files/milton_files/milton_complete_words_all_lc_uniq
+Number of unique words after stemming
+9541 ../files/milton_files/milton_complete_stemmed_uniq

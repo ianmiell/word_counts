@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+342436 ../files/johnson_files/johnson_complete
+Number of words with removals of non-words and non-word characters
+338547 ../files/johnson_files/johnson_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+19512 ../files/johnson_files/johnson_complete_words_all_lc_uniq
+Number of unique words after stemming
+12590 ../files/johnson_files/johnson_complete_stemmed_uniq

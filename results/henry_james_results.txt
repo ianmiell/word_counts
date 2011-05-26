@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+577045 ../files/henry_james_files/henry_james_complete
+Number of words with removals of non-words and non-word characters
+577017 ../files/henry_james_files/henry_james_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+16102 ../files/henry_james_files/henry_james_complete_words_all_lc_uniq
+Number of unique words after stemming
+9679 ../files/henry_james_files/henry_james_complete_stemmed_uniq

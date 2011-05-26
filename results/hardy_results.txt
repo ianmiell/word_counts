@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+818032 ../files/hardy_files/hardy_complete
+Number of words with removals of non-words and non-word characters
+816231 ../files/hardy_files/hardy_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+25019 ../files/hardy_files/hardy_complete_words_all_lc_uniq
+Number of unique words after stemming
+15072 ../files/hardy_files/hardy_complete_stemmed_uniq

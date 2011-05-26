@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+316148 ../files/george_eliot_files/george_eliot_complete
+Number of words with removals of non-words and non-word characters
+316085 ../files/george_eliot_files/george_eliot_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+15110 ../files/george_eliot_files/george_eliot_complete_words_all_lc_uniq
+Number of unique words after stemming
+9477 ../files/george_eliot_files/george_eliot_complete_stemmed_uniq

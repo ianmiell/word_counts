@@ -1,0 +1,19 @@
+================================================================================
+word_counts
+================================================================================
+
+github repo containing the programs used and output generated for the small
+project described here:
+
+http://zwischenzugs.wordpress.com/2011/03/06/shakespeare_unexceptional_vocabulary
+
+================================================================================
+Directory = Description
+================================================================================
+bin       = Contains scripts used to generate results
+files     = Contains files of words generated from authors' works (please note
+            that the works themselves have not been included due to copyright 
+            concerns. They are freely available online at Project Gutenberg, but
+            require editing before analysis).
+results   = Results output for examined writers.
+

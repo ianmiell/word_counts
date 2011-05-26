@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+212012 ../files/melville_files/melville_complete
+Number of words with removals of non-words and non-word characters
+211798 ../files/melville_files/melville_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+16739 ../files/melville_files/melville_complete_words_all_lc_uniq
+Number of unique words after stemming
+10619 ../files/melville_files/melville_complete_stemmed_uniq

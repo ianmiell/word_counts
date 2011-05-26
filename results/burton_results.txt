@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+456636 ../files/burton_files/burton_complete
+Number of words with removals of non-words and non-word characters
+451774 ../files/burton_files/burton_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+35175 ../files/burton_files/burton_complete_words_all_lc_uniq
+Number of unique words after stemming
+27233 ../files/burton_files/burton_complete_stemmed_uniq

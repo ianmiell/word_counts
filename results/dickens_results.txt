@@ -1,0 +1,8 @@
+Number of words in writer's corpus file
+994720 ../files/dickens_files/dickens_complete
+Number of words with removals of non-words and non-word characters
+992158 ../files/dickens_files/dickens_complete_words_all_lc
+Number of unique words with removals of non-words and non-word characters
+21957 ../files/dickens_files/dickens_complete_words_all_lc_uniq
+Number of unique words after stemming
+12639 ../files/dickens_files/dickens_complete_stemmed_uniq
