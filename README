@@ -17,3 +17,36 @@ files     = Contains files of words generated from authors' works (please note
             require editing before analysis).
 results   = Results output for examined writers.
 
+
+
+================================================================================
+File                       = Description
+================================================================================
+bin/analyse.pl             = Takes stdin, outputs words sorted with numbers,
+                             possessives, and "'d"s replaced with "ed"s.
+bin/calculate_all.sh       = Takes all the files in
+                             "../files/*_files/<writer's name>_complete" and
+                             outputs results from calculate.sh to
+                             ../results/<writer's name>_results.txt
+bin/calculate.sh           = Given a filename representing a writer's corpus, 
+                             outputs: number of words in corpus; number of
+                             words after analyse.pl is run over it; number of
+                             unique words after analyse.pl is run over it; 
+                             number of unique words after stemmer.pl is run
+                             on corpus that has been through analyse.pl
+bin/stemmer.pl             = Takes words as inputs and outputs them in a 
+                             canonical Porter-stemmed form.
+results/<writer's name>_results.txt
+                           = Results of writer's corpus's analysis.
+files/<writer'name>_files/<writer's name>_complete_words_all_lc
+                           = All words used in corpus in lower case.
+files/<writer'name>_files/<writer's name>_complete_words_all_lc_uniq
+                           = As above, but each word is unique in the file
+                             and in alphabetical order.
+files/<writer'name>_files/<writer's name>_complete_stemmed_uniq
+                           = As above, but each word is stemmed, unique and in
+                             alphabetical order.
+
+
+
+
